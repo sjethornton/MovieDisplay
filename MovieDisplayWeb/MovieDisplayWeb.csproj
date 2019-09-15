@@ -44,6 +44,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -88,11 +91,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\43693.jpg" />
+    <Content Include="App_Data\66349.jpg" />
+    <Content Include="App_Data\66364.jpg" />
+    <Content Include="App_Data\66537.jpg" />
+    <Content Include="App_Data\66594.jpg" />
+    <Content Include="App_Data\66732.jpg" />
+    <Content Include="App_Data\66759.jpg" />
+    <Content Include="App_Data\66794.jpg" />
+    <Content Include="App_Data\67520.jpg" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\movie.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\MovieController.cs" />
+    <Compile Include="Controllers\PerformancesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -100,7 +115,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="App_Data\dbo.json" />
+    <Content Include="Content\style.css" />
     <None Include="packages.config" />
+    <Content Include="Views\Movie\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -109,9 +127,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Home\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MovieDisplayViewModels\MovieDisplayViewModels.csproj">
+      <Project>{2c0100d1-13f8-4f06-a223-0609ed295026}</Project>
+      <Name>MovieDisplayViewModels</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

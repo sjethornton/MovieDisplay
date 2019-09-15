@@ -1,0 +1,89 @@
+﻿body {
+    background-color: #000;
+    font-family: arial, sans-serif;
+    color: #fff;
+}
+
+.performances {
+    width: auto;
+    margin-left: 33%;
+    position: relative;
+}
+
+.poster { 
+    float: left;
+    width: 33%;
+}
+
+.container {
+     width: 100%;
+     margin: auto;
+}
+
+.show {
+    width: 100%;
+    font-size: 16px;
+    overflow: hidden;
+    opacity: 0;
+    -webkit-animation: fadeInOut 14s 0s infinite linear;
+    background-image: linear-gradient(#4c4c4c, black);
+    padding-bottom: 1em;
+}
+
+.pageContainer {
+    position: absolute;
+    width: 100%;
+}
+.show2 {
+    width: 100%;
+    font-size: 16px;
+    overflow: hidden;
+    opacity: 0;
+    -webkit-animation: fadeInOut 14s 7s infinite linear;
+    background-image: linear-gradient(#4c4c4c, black);
+    padding-bottom: 1em;
+}
+
+.time {
+    color: #F5CD58;
+    font: bold 1.2em "Arial", sans-serif;
+    margin-left: 2em;
+    float: left;
+}
+
+.soldOut {
+    color: #7a662c;
+    font: bold 1.2em "Arial", sans-serif;
+    margin-left: 2em;
+    float: left;
+}
+
+.showname {
+    font: bold 2.2em "Arial", sans-serif;
+}
+
+.showrating {
+    float: right;
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+    }
+
+    1% {
+        opacity: 1;
+    }
+
+    45% {
+        opacity: 1;
+    }
+
+    55% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}

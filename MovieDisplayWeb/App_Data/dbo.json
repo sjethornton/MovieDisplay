@@ -1,0 +1,2061 @@
+{
+  'generated': '2019-01-03T06:00:22.923',
+  'movies': {
+    '55408': {
+      'name': 'CAPTAIN MARVEL',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '61189': {
+      'name': 'UPSIDE, THE',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '61190': {
+      'name': 'UPSIDE, THE AD',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '61191': {
+      'name': 'UPSIDE, THE AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '61192': {
+      'name': 'UPSIDE, THE CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '61627': {
+      'name': 'UPSIDE, THE PRVT',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62035': {
+      'name': 'AQUAMAN AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62190': {
+      'name': 'RALPH BREAKS AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '62225': {
+      'name': 'SPIDER-MAN: AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '62231': {
+      'name': 'MORTAL ENGIN AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62238': {
+      'name': 'BUMBLEBEE AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62247': {
+      'name': 'CAPTAIN MARVEL AD',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62248': {
+      'name': 'CAPTAIN MARV AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62249': {
+      'name': 'CAPTAIN MARVEL CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62250': {
+      'name': 'CAPTAIN MARVE PRVT',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62251': {
+      'name': 'CAPTAIN MARVEL 3D',
+      'dimension': '3d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '62782': {
+      'name': 'MARY POPPINS AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '63315': {
+      'name': 'ESCAPE ROOM AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '63643': {
+      'name': 'WELCOME TO M AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '63650': {
+      'name': 'HOLMES AND W AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '63733': {
+      'name': 'SECOND ACT AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '64708': {
+      'name': 'AQUAMAN 3D AD CC',
+      'dimension': '3d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '64744': {
+      'name': 'BUMBLEBEE 3D AD CC',
+      'dimension': '3d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '65111': {
+      'name': 'MULE, THE AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'R'
+    },
+    '65153': {
+      'name': 'VICE AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'R'
+    },
+    '65174': {
+      'name': 'DOG/"S WAY HOME, A',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '65175': {
+      'name': 'DOG/"S WAY HOME, AD',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '65176': {
+      'name': 'DOG/"S WAY HOME, CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '65177': {
+      'name': 'DOG/"S WAY HO AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '65182': {
+      'name': 'GLASS',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '65183': {
+      'name': 'GLASS AD',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '65184': {
+      'name': 'GLASS CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '65185': {
+      'name': 'GLASS AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '65225': {
+      'name': 'CAPTAIN MARV 3D AD',
+      'dimension': '3d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '65226': {
+      'name': 'CAPTAIN MARV 3D CC',
+      'dimension': '3d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '65227': {
+      'name': 'CAPTAIN M 3D AD CC',
+      'dimension': '3d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '65264': {
+      'name': 'KID WHO WOULD BE K',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '65265': {
+      'name': 'KID WHO WOULD B AD',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '65266': {
+      'name': 'KID WHO WOULD B CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '65267': {
+      'name': 'KID WHO WOUL AD CC',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '65496': {
+      'name': 'DRAGON BALL Z SUPE',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'NR'
+    },
+    '65808': {
+      'name': 'CAPTAIN MA 3D PRVT',
+      'dimension': '3d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '66236': {
+      'name': 'GLASS PRVT',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '66247': {
+      'name': 'KID WHO WOULD PRVT',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '66487': {
+      'name': 'PATTERNS OF EVIDEN',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'NR'
+    },
+    '66527': {
+      'name': 'GLASS SFF',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG13'
+    },
+    '66528': {
+      'name': 'DOG/"S WAY HOME SFF',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    },
+    '66529': {
+      'name': 'KID WHO WOULD SFF',
+      'dimension': '2d',
+      'format': 'standard',
+      'rating': 'PG'
+    }
+  },
+  'performances': {
+    '2019-01-03': [
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51713',
+        'isSoldOut': false,
+        'time': '12:05'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51714',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51715',
+        'isSoldOut': false,
+        'time': '22:00'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51702',
+        'isSoldOut': false,
+        'time': '12:55'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51701',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51723',
+        'isSoldOut': false,
+        'time': '13:00'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51724',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51721',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51722',
+        'isSoldOut': false,
+        'time': '21:55'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '62231',
+        'performanceId': '51751',
+        'isSoldOut': false,
+        'time': '12:45'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51725',
+        'isSoldOut': false,
+        'time': '13:00'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51726',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51727',
+        'isSoldOut': false,
+        'time': '21:45'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51709',
+        'isSoldOut': false,
+        'time': '12:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51710',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51711',
+        'isSoldOut': false,
+        'time': '18:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51712',
+        'isSoldOut': false,
+        'time': '21:30'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51752',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51753',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51754',
+        'isSoldOut': false,
+        'time': '21:45'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '63643',
+        'performanceId': '51703',
+        'isSoldOut': false,
+        'time': '19:10'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '63643',
+        'performanceId': '51704',
+        'isSoldOut': false,
+        'time': '22:05'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51700',
+        'isSoldOut': false,
+        'time': '12:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51699',
+        'isSoldOut': false,
+        'time': '14:25'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51698',
+        'isSoldOut': false,
+        'time': '16:45'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51696',
+        'isSoldOut': false,
+        'time': '19:15'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51697',
+        'isSoldOut': false,
+        'time': '21:50'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51746',
+        'isSoldOut': false,
+        'time': '12:00'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51747',
+        'isSoldOut': false,
+        'time': '14:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51748',
+        'isSoldOut': false,
+        'time': '17:00'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51749',
+        'isSoldOut': false,
+        'time': '19:35'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51750',
+        'isSoldOut': false,
+        'time': '22:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '64708',
+        'performanceId': '51716',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '64744',
+        'performanceId': '51717',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51705',
+        'isSoldOut': false,
+        'time': '12:45'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51706',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51707',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51708',
+        'isSoldOut': false,
+        'time': '21:45'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51719',
+        'isSoldOut': false,
+        'time': '12:40'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '65153',
+        'performanceId': '51728',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51720',
+        'isSoldOut': false,
+        'time': '19:10'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51718',
+        'isSoldOut': false,
+        'time': '22:05'
+      }
+    ],
+    '2019-01-04': [
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51784',
+        'isSoldOut': false,
+        'time': '12:35'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51786',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51785',
+        'isSoldOut': false,
+        'time': '18:50'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51787',
+        'isSoldOut': false,
+        'time': '21:35'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51763',
+        'isSoldOut': false,
+        'time': '12:55'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51765',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51766',
+        'isSoldOut': false,
+        'time': '21:55'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51777',
+        'isSoldOut': false,
+        'time': '13:00'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51778',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51775',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51776',
+        'isSoldOut': false,
+        'time': '21:55'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51762',
+        'isSoldOut': false,
+        'time': '12:45'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '62238',
+        'performanceId': '51759',
+        'isSoldOut': false,
+        'time': '15:25'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51761',
+        'isSoldOut': false,
+        'time': '18:45'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '62238',
+        'performanceId': '51760',
+        'isSoldOut': false,
+        'time': '21:25'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51767',
+        'isSoldOut': false,
+        'time': '12:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51768',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51769',
+        'isSoldOut': false,
+        'time': '18:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51770',
+        'isSoldOut': false,
+        'time': '21:30'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51791',
+        'isSoldOut': false,
+        'time': '12:25'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51788',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51789',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51790',
+        'isSoldOut': false,
+        'time': '21:55'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '63643',
+        'performanceId': '51764',
+        'isSoldOut': false,
+        'time': '16:15'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51755',
+        'isSoldOut': false,
+        'time': '12:40'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '63650',
+        'performanceId': '51757',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51756',
+        'isSoldOut': false,
+        'time': '18:40'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '63650',
+        'performanceId': '51758',
+        'isSoldOut': false,
+        'time': '21:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51780',
+        'isSoldOut': false,
+        'time': '12:00'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51781',
+        'isSoldOut': false,
+        'time': '14:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51782',
+        'isSoldOut': false,
+        'time': '17:00'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51783',
+        'isSoldOut': false,
+        'time': '19:25'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51779',
+        'isSoldOut': false,
+        'time': '22:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51771',
+        'isSoldOut': false,
+        'time': '12:45'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51772',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51773',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51774',
+        'isSoldOut': false,
+        'time': '21:45'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51792',
+        'isSoldOut': false,
+        'time': '12:30'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51793',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51794',
+        'isSoldOut': false,
+        'time': '18:50'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51795',
+        'isSoldOut': false,
+        'time': '21:45'
+      }
+    ],
+    '2019-01-05': [
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51812',
+        'isSoldOut': false,
+        'time': '12:35'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51816',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51813',
+        'isSoldOut': false,
+        'time': '18:50'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51817',
+        'isSoldOut': false,
+        'time': '21:35'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51800',
+        'isSoldOut': false,
+        'time': '12:55'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51801',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51802',
+        'isSoldOut': false,
+        'time': '21:55'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51825',
+        'isSoldOut': false,
+        'time': '13:00'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51826',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51827',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51824',
+        'isSoldOut': false,
+        'time': '21:55'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51834',
+        'isSoldOut': false,
+        'time': '12:45'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '62238',
+        'performanceId': '51796',
+        'isSoldOut': false,
+        'time': '15:25'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51833',
+        'isSoldOut': false,
+        'time': '18:45'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '62238',
+        'performanceId': '51797',
+        'isSoldOut': false,
+        'time': '21:25'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51806',
+        'isSoldOut': false,
+        'time': '12:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51807',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51804',
+        'isSoldOut': false,
+        'time': '18:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51805',
+        'isSoldOut': false,
+        'time': '21:30'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51819',
+        'isSoldOut': false,
+        'time': '12:25'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51814',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51818',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51815',
+        'isSoldOut': false,
+        'time': '21:55'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '63643',
+        'performanceId': '51803',
+        'isSoldOut': false,
+        'time': '16:15'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51798',
+        'isSoldOut': false,
+        'time': '12:40'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '63650',
+        'performanceId': '51835',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51799',
+        'isSoldOut': false,
+        'time': '18:40'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '63650',
+        'performanceId': '51836',
+        'isSoldOut': false,
+        'time': '21:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51829',
+        'isSoldOut': false,
+        'time': '12:00'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51830',
+        'isSoldOut': false,
+        'time': '14:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51831',
+        'isSoldOut': false,
+        'time': '17:00'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51832',
+        'isSoldOut': false,
+        'time': '19:25'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51828',
+        'isSoldOut': false,
+        'time': '22:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51810',
+        'isSoldOut': false,
+        'time': '12:45'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51811',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51808',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51809',
+        'isSoldOut': false,
+        'time': '21:45'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51822',
+        'isSoldOut': false,
+        'time': '12:30'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51823',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51820',
+        'isSoldOut': false,
+        'time': '18:50'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51821',
+        'isSoldOut': false,
+        'time': '21:45'
+      }
+    ],
+    '2019-01-06': [
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51849',
+        'isSoldOut': false,
+        'time': '12:35'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51852',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51850',
+        'isSoldOut': false,
+        'time': '18:50'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51840',
+        'isSoldOut': false,
+        'time': '12:55'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51841',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51858',
+        'isSoldOut': false,
+        'time': '13:00'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51859',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51860',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51866',
+        'isSoldOut': false,
+        'time': '12:45'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '62238',
+        'performanceId': '51837',
+        'isSoldOut': false,
+        'time': '15:25'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51865',
+        'isSoldOut': false,
+        'time': '18:45'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51844',
+        'isSoldOut': false,
+        'time': '12:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51845',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51843',
+        'isSoldOut': false,
+        'time': '18:30'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51854',
+        'isSoldOut': false,
+        'time': '12:25'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51851',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51853',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '63643',
+        'performanceId': '51842',
+        'isSoldOut': false,
+        'time': '16:15'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51838',
+        'isSoldOut': false,
+        'time': '12:40'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '63650',
+        'performanceId': '51867',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51839',
+        'isSoldOut': false,
+        'time': '18:40'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51861',
+        'isSoldOut': false,
+        'time': '12:00'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51862',
+        'isSoldOut': false,
+        'time': '14:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51863',
+        'isSoldOut': false,
+        'time': '17:00'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51864',
+        'isSoldOut': false,
+        'time': '19:25'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51847',
+        'isSoldOut': false,
+        'time': '12:45'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51848',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51846',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51856',
+        'isSoldOut': false,
+        'time': '12:30'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51857',
+        'isSoldOut': false,
+        'time': '15:30'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51855',
+        'isSoldOut': false,
+        'time': '18:50'
+      }
+    ],
+    '2019-01-07': [
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51886',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51874',
+        'isSoldOut': false,
+        'time': '18:50'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51869',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51878',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51879',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '62238',
+        'performanceId': '51884',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51882',
+        'isSoldOut': false,
+        'time': '18:45'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51885',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51871',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51875',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51876',
+        'isSoldOut': false,
+        'time': '19:15'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '63643',
+        'performanceId': '51870',
+        'isSoldOut': false,
+        'time': '16:15'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '63650',
+        'performanceId': '51883',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51868',
+        'isSoldOut': false,
+        'time': '18:40'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51880',
+        'isSoldOut': false,
+        'time': '16:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51881',
+        'isSoldOut': false,
+        'time': '19:25'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51873',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51872',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51887',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51877',
+        'isSoldOut': false,
+        'time': '19:05'
+      }
+    ],
+    '2019-01-08': [
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51898',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51896',
+        'isSoldOut': false,
+        'time': '18:50'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51890',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51902',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51903',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '62238',
+        'performanceId': '51888',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51904',
+        'isSoldOut': false,
+        'time': '18:45'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51893',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51892',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51897',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51899',
+        'isSoldOut': false,
+        'time': '19:15'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '63643',
+        'performanceId': '51891',
+        'isSoldOut': false,
+        'time': '16:15'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '63650',
+        'performanceId': '51905',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51889',
+        'isSoldOut': false,
+        'time': '18:40'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51906',
+        'isSoldOut': false,
+        'time': '16:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51907',
+        'isSoldOut': false,
+        'time': '19:25'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51895',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51894',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51901',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51900',
+        'isSoldOut': false,
+        'time': '19:05'
+      }
+    ],
+    '2019-01-09': [
+      {
+        'auditorium': '6',
+        'movieId': '62035',
+        'performanceId': '51918',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '62035',
+        'performanceId': '51916',
+        'isSoldOut': false,
+        'time': '18:50'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '62190',
+        'performanceId': '51910',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51922',
+        'isSoldOut': false,
+        'time': '16:10'
+      },
+      {
+        'auditorium': '8',
+        'movieId': '62225',
+        'performanceId': '51923',
+        'isSoldOut': false,
+        'time': '19:20'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '62238',
+        'performanceId': '51908',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '62238',
+        'performanceId': '51924',
+        'isSoldOut': false,
+        'time': '18:45'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51913',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '3',
+        'movieId': '62782',
+        'performanceId': '51912',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '5',
+        'movieId': '63315',
+        'performanceId': '51917',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '63315',
+        'performanceId': '51919',
+        'isSoldOut': false,
+        'time': '19:15'
+      },
+      {
+        'auditorium': '2',
+        'movieId': '63643',
+        'performanceId': '51911',
+        'isSoldOut': false,
+        'time': '16:15'
+      },
+      {
+        'auditorium': '10',
+        'movieId': '63650',
+        'performanceId': '51925',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '63650',
+        'performanceId': '51909',
+        'isSoldOut': false,
+        'time': '18:40'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51926',
+        'isSoldOut': false,
+        'time': '16:30'
+      },
+      {
+        'auditorium': '9',
+        'movieId': '63733',
+        'performanceId': '51927',
+        'isSoldOut': false,
+        'time': '19:25'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51915',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '4',
+        'movieId': '65111',
+        'performanceId': '51914',
+        'isSoldOut': false,
+        'time': '19:05'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51921',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '7',
+        'movieId': '65153',
+        'performanceId': '51920',
+        'isSoldOut': false,
+        'time': '19:05'
+      }
+    ],
+    '2019-01-16': [
+      {
+        'auditorium': '1',
+        'movieId': '65496',
+        'performanceId': '51034',
+        'isSoldOut': false,
+        'time': '19:00'
+      }
+    ],
+    '2019-01-17': [
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51729',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '65496',
+        'performanceId': '51035',
+        'isSoldOut': false,
+        'time': '19:00'
+      }
+    ],
+    '2019-01-18': [
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51730',
+        'isSoldOut': false,
+        'time': '16:05'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51731',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51732',
+        'isSoldOut': false,
+        'time': '21:50'
+      }
+    ],
+    '2019-01-19': [
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51733',
+        'isSoldOut': false,
+        'time': '13:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51734',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51735',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51736',
+        'isSoldOut': false,
+        'time': '21:50'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '65496',
+        'performanceId': '51036',
+        'isSoldOut': false,
+        'time': '16:00'
+      }
+    ],
+    '2019-01-20': [
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51737',
+        'isSoldOut': false,
+        'time': '13:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51738',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51739',
+        'isSoldOut': false,
+        'time': '19:00'
+      }
+    ],
+    '2019-01-21': [
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51740',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51741',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '65496',
+        'performanceId': '51037',
+        'isSoldOut': false,
+        'time': '16:00'
+      }
+    ],
+    '2019-01-22': [
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51743',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51742',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '65496',
+        'performanceId': '51038',
+        'isSoldOut': false,
+        'time': '19:00'
+      }
+    ],
+    '2019-01-23': [
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51744',
+        'isSoldOut': false,
+        'time': '16:00'
+      },
+      {
+        'auditorium': '6',
+        'movieId': '65185',
+        'performanceId': '51745',
+        'isSoldOut': false,
+        'time': '19:00'
+      },
+      {
+        'auditorium': '1',
+        'movieId': '65496',
+        'performanceId': '51039',
+        'isSoldOut': false,
+        'time': '19:00'
+      }
+    ],
+    '2019-01-24': [
+      {
+        'auditorium': '1',
+        'movieId': '65496',
+        'performanceId': '51040',
+        'isSoldOut': false,
+        'time': '19:00'
+      }
+    ],
+    '2019-03-14': [
+      {
+        'auditorium': '1',
+        'movieId': '66487',
+        'performanceId': '51269',
+        'isSoldOut': false,
+        'time': '18:30'
+      }
+    ],
+    '2019-03-16': [
+      {
+        'auditorium': '1',
+        'movieId': '66487',
+        'performanceId': '51270',
+        'isSoldOut': false,
+        'time': '12:55'
+      }
+    ],
+    '2019-03-19': [
+      {
+        'auditorium': '1',
+        'movieId': '66487',
+        'performanceId': '51271',
+        'isSoldOut': false,
+        'time': '18:30'
+      }
+    ]
+  },
+  'pricing': {
+    'evening': {
+      'standard': {
+        'adult': {
+          '2d': 6.99,
+          '3d': 9.99
+        },
+        'child': {
+          '2d': 4.99,
+          '3d': 7.99
+        },
+        'senior': {
+          '2d': 6.99,
+          '3d': 9.99
+        }
+      }
+    },
+    'matinee': {
+      'standard': {
+        'adult': {
+          '2d': 4.99,
+          '3d': 7.99
+        },
+        'child': {
+          '2d': 4.99,
+          '3d': 7.99
+        },
+        'senior': {
+          '2d': 4.99,
+          '3d': 7.99
+        }
+      }
+    }
+  }
+}
