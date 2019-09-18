@@ -91,23 +91,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\43693.jpg" />
-    <Content Include="App_Data\66349.jpg" />
-    <Content Include="App_Data\66364.jpg" />
-    <Content Include="App_Data\66537.jpg" />
-    <Content Include="App_Data\66594.jpg" />
-    <Content Include="App_Data\66732.jpg" />
-    <Content Include="App_Data\66759.jpg" />
-    <Content Include="App_Data\66794.jpg" />
-    <Content Include="App_Data\67520.jpg" />
+    <Content Include="img\43693.jpg" />
+    <Content Include="img\66349.jpg" />
+    <Content Include="img\66364.jpg" />
+    <Content Include="img\66537.jpg" />
+    <Content Include="img\66594.jpg" />
+    <Content Include="img\66732.jpg" />
+    <Content Include="img\66759.jpg" />
+    <Content Include="img\66794.jpg" />
+    <Content Include="img\67520.jpg" />
     <Content Include="Global.asax" />
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.4.1.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
     <Content Include="Scripts\movie.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\MovieController.cs" />
-    <Compile Include="Controllers\PerformancesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -117,8 +121,11 @@
     <Content Include="Views\web.config" />
     <Content Include="App_Data\dbo.json" />
     <Content Include="Content\style.css" />
+    <Content Include="App_Data\dboposter.json" />
     <None Include="packages.config" />
     <Content Include="Views\Movie\Index.cshtml" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.4.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

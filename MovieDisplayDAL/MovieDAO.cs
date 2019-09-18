@@ -19,8 +19,16 @@ namespace MovieDisplayDAL
 
         public JObject GetMovieFiles()
         {
-            var domain = AppDomain.CurrentDomain.BaseDirectory;
-            return JObject.Parse(File.ReadAllText(domain + jsonFile));
+            try
+            {
+                var domain = AppDomain.CurrentDomain.BaseDirectory;
+                return JObject.Parse(File.ReadAllText(domain + jsonFile));
+            }
+            catch(ArgumentException e)
+            {
+                Console.WriteLine("Error " + e.Message + " found in GetMovieFiles in MovieDAO");
+                throw e;
+            }
         }
     }
 }

@@ -25,6 +25,9 @@ namespace MovieDisplayViewModels
         public int auditorium { get; set; }
         public List<showTimes> showTime { get; set; }
 
+        //constructor
+        //used to combine performance and movie information into one object for ease
+        //of use
         public ShowingsViewModel() {
             showTime = new List<showTimes>();
         }

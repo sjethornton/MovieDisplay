@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using MovieDisplayDAL;
 using Newtonsoft.Json.Linq;
 
@@ -24,26 +23,10 @@ namespace MovieDisplayViewModels
             //dt = new DateTime();
 
             //use predetermined Date/Time for demo purpose
-            dt = new DateTime(2019, 01, 03);
+            dt = new DateTime(2019, 01, 05);
 
             _dao = new MovieDAO();
         }
-
-        //GetPerformances
-        //gets a list of dates
-        //public List<PerformancesViewModel> GetPerformances()
-        //{
-        //    List<PerformancesViewModel> viewModels = new List<PerformancesViewModel>();
-        //    var search = _dao.GetMovieFiles()["performances"];
-
-        //    foreach(JProperty j in search)
-        //    {
-        //        PerformancesViewModel viewModel = new PerformancesViewModel();
-        //        viewModel.date = j.ToString();
-        //        viewModels.Add(viewModel);
-        //    }
-        //    return viewModels;
-        //}
 
         //GetPerformances
         //gets list of performances for current date
